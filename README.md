@@ -36,6 +36,10 @@ More in details, let's consider the following request flow:
 Note:
 The application can log in to keycloak even before sending the first request. Indeed it is normally so, if we think of the case of a mobile app: once the credentials have been entered, the user may have chosen to remain connected (so at most the application will request a new valid token using the refresh token).
 
+Example: Mobile App
+![Example Architecture](images/kong-keycloak-architecture.png)
+
+
 ---
 
 ## 0. Introduction
