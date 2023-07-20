@@ -539,4 +539,8 @@ curl "http://${HOST_IP}:8000/mock" \
 
 All seems to work now.
 
-Note: start.sh
+Note: start.sh for all manual tasks
+
+Ref: 
+- https://github.com/jerneyio/kong-keycloak-mobile-demo & https://www.jerney.io/secure-apis-kong-keycloak-1/ + https://www.jerney.io/secure-apis-kong-keycloak-2/
+
