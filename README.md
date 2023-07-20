@@ -424,9 +424,9 @@ Prometheus is listening on port 9090. Therefore we launch a browser and point to
 
 Grafana:
 
-We point to grafana Url [http://localhost:1337](http://localhost:1337).
+We point to grafana Url [http://localhost:3000](http://localhost:3000).
 
-Default login is admin/admin.Then we add Prometheus datasource
+Default login is admin/admin.Then we add Prometheus datasource: Use http://prometheus:9090
 ![Grafana DataSource](images/prometheus-data-source.png)
 
 To add kong dashboard import official kong dashboard  [https://grafana.com/grafana/dashboards/7424](https://grafana.com/grafana/dashboards/7424)
