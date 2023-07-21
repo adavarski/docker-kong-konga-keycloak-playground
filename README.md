@@ -543,4 +543,4 @@ Note: start.sh for all manual tasks
 
 Ref: 
 - https://github.com/jerneyio/kong-keycloak-mobile-demo & https://www.jerney.io/secure-apis-kong-keycloak-1/ + https://www.jerney.io/secure-apis-kong-keycloak-2/
-
+- k8s (KinD) - https://github.com/adavarski/kind-kong-gateway-playground & https://github.com/adavarski/kind-keycloak-playground
